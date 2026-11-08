@@ -1,0 +1,325 @@
+{
+  "guncelleme": "2026-11-07",
+  "etkinlikler": [
+    {
+      "sinav": "adr",
+      "baslik": "SRC-5 (ADR) sınavı başvuru ve ücret yatırma başlangıcı",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-10-20",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/ziblfkil/src-5-sinav-takvimi-2026-docx-duyuru.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "tmgd",
+      "baslik": "TMGD + TMGDE sınavı başvuru ve ücret yatırma başlangıcı",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-10-20",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/jq4d013q/tmgd-sinav-takvimi-2026-yili.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "isg",
+      "baslik": "2026 İSG-2 sınav ücreti ödeme/başvuru başlangıcı (Gazi ÖDM)",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-11-02",
+      "kaynak": "https://gaziodm.gazi.edu.tr/view/announcement/326783",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "sigorta",
+      "baslik": "SEGEM Teknik Personel Yeterlilik Sınavı (Aralık) başvuruları başlar",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-11-02",
+      "kaynak": "https://segem.org.tr/files/kilavuzlar/tpys/2026/2026kasimkilavuz.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "ogg",
+      "baslik": "Özel Güvenlik 124. Temel / 100. Yenileme sınavı için eğitim bitiş son tarihi",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-11-13",
+      "kaynak": "https://www.egm.gov.tr/ozelguvenlik/2026-sinav-takvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "sigorta",
+      "baslik": "SEGEM Teknik Personel Yeterlilik Sınavı (Kasım)",
+      "tur": "sinav",
+      "tarih": "2026-11-14",
+      "kaynak": "https://segem.org.tr/files/kilavuzlar/tpys/2026/2026kasimkilavuz.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "gumruk",
+      "baslik": "2026 Gümrük Müşavirliği ve Gümrük Müşavir Yardımcılığı Yazılı Sınavı",
+      "tur": "sinav",
+      "tarih": "2026-11-15",
+      "kaynak": "https://ticaret.gov.tr/duyurular/2026-yili-gumruk-musavirligi-ve-gumruk-musavir-yardimciligi-sinavi-duyurusu",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "isg",
+      "baslik": "2026 İSG-2 sınav ücreti ödeme/başvuru son günü (Gazi ÖDM)",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-11-16",
+      "kaynak": "https://gaziodm.gazi.edu.tr/view/announcement/326783",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "adr",
+      "baslik": "SRC-5 (ADR) sınavı başvuru ve ücret yatırma son günü (eğitim tamamlama son günü 16 Kasım)",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-11-18",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/ziblfkil/src-5-sinav-takvimi-2026-docx-duyuru.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "tmgd",
+      "baslik": "TMGD + TMGDE sınavı başvuru ve ücret yatırma son günü (eğitim tamamlama son günü 16 Kasım)",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-11-18",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/jq4d013q/tmgd-sinav-takvimi-2026-yili.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "kpss",
+      "baslik": "2026-KPSS Ortaöğretim sonuçları",
+      "tur": "sonuc",
+      "tarih": "2026-11-19",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "smmm",
+      "baslik": "Staja Giriş Sınavı (SGS) 2026/3",
+      "tur": "sinav",
+      "tarih": "2026-11-21",
+      "kaynak": "https://www.ismmmo.org.tr/dosya/5867/Staj-Dosya/15012026-turmob-2026-yili-smmm-sinav-takvimi.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "2026-YDS/2",
+      "tur": "sinav",
+      "tarih": "2026-11-22",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "kpss",
+      "baslik": "2026-KPSS Din Hizmetleri Alan Bilgisi Testi (DHBT) sonuçları",
+      "tur": "sonuc",
+      "tarih": "2026-11-25",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "sigorta",
+      "baslik": "SEGEM Teknik Personel Yeterlilik Sınavı (Aralık) başvuruları biter",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-11-26",
+      "kaynak": "https://segem.org.tr/files/kilavuzlar/tpys/2026/2026kasimkilavuz.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "adr",
+      "baslik": "SRC-5 (ADR) Tehlikeli Mal Taşımacılığı Sürücü Sertifikası Sınavı",
+      "tur": "sinav",
+      "tarih": "2026-11-28",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/ziblfkil/src-5-sinav-takvimi-2026-docx-duyuru.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "smmm",
+      "baslik": "SMMM Sınavı 2026/3. Dönem",
+      "tur": "sinav",
+      "tarih": "2026-11-28",
+      "kaynak": "https://www.ismmmo.org.tr/dosya/5867/Staj-Dosya/15012026-turmob-2026-yili-smmm-sinav-takvimi.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "tmgd",
+      "baslik": "TMGD + TMGDE Sınavı",
+      "tur": "sinav",
+      "tarih": "2026-11-28",
+      "kaynak": "https://uhdgm.uab.gov.tr/media/uhdgm/jq4d013q/tmgd-sinav-takvimi-2026-yili.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "ales",
+      "baslik": "2026-ALES/3",
+      "tur": "sinav",
+      "tarih": "2026-11-29",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "e-YDS 2026/12 İngilizce başvuruları başlar",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-12-02",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "2026-YDS/2 sonuçları",
+      "tur": "sonuc",
+      "tarih": "2026-12-10",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "e-YDS 2026/12 İngilizce başvuruları biter",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-12-10",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "isg",
+      "baslik": "2026 İSG-2 İş Güvenliği Uzmanlığı / İşyeri Hekimliği / DSP Sınavı",
+      "tur": "sinav",
+      "tarih": "2026-12-13",
+      "kaynak": "https://gaziodm.gazi.edu.tr/view/announcement/326783",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "ales",
+      "baslik": "2026-ALES/3 sonuçları",
+      "tur": "sonuc",
+      "tarih": "2026-12-17",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "kpss",
+      "baslik": "KPSS-2026/2 (bazı kurum ve kuruluşlar 2. yerleştirme) tercihleri başlar",
+      "tur": "basvuru_baslangic",
+      "tarih": "2026-12-17",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "sigorta",
+      "baslik": "SEGEM Teknik Personel Yeterlilik Sınavı (Aralık)",
+      "tur": "sinav",
+      "tarih": "2026-12-19",
+      "kaynak": "https://segem.org.tr/duyurular/19-aralik-2026-teknik-personel-yeterlilik-sinavi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "e-YDS 2026/12 İngilizce",
+      "tur": "sinav",
+      "tarih": "2026-12-19",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "yds",
+      "baslik": "e-YDS 2026/12 İngilizce sonuçları",
+      "tur": "sonuc",
+      "tarih": "2026-12-19",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "kpss",
+      "baslik": "KPSS-2026/2 (bazı kurum ve kuruluşlar 2. yerleştirme) tercihleri biter",
+      "tur": "basvuru_bitis",
+      "tarih": "2026-12-24",
+      "kaynak": "https://www.osym.gov.tr/Sayfa/SinavTakvimi",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "ogg",
+      "baslik": "Özel Güvenlik 124. Temel Eğitim ve 100. Yenileme Eğitimi Sınavı",
+      "tur": "sinav",
+      "tarih": "2026-12-27",
+      "kaynak": "https://www.egm.gov.tr/ozelguvenlik/2026-sinav-takvimi",
+      "dogrulandi": true
+    }
+  ],
+  "surekli": [
+    {
+      "sinav": "ehliyet",
+      "aciklama": "MEB Motorlu Taşıt Sürücü Kursiyerleri e-Sınavı (MTSK) haftanın 7 günü, 81 il/ilçedeki e-sınav salonlarında randevulu sistemle yapılır.",
+      "kaynak": "https://odsgm.meb.gov.tr/meb_iys_dosyalar/2026_04/69cf935dccf31165847573_2026_SINAV_UYGULAMA_TAKV%C4%B0M%C4%B0.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "src",
+      "aciklama": "SRC (ÜDY/ODY/SRC1-4/Kurye) sınavı MEB 'Ulaştırma Hizmetleri Mesleki Eğitim ve Geliştirme Kursiyerleri MYS e-Sınavı' ile yapılır; başvuru kurs üzerinden yapılır, sınav günü e-sınav randevu sistemiyle en yakın uygun tarihe otomatik atanır.",
+      "kaynak": "https://odsgm.meb.gov.tr/www/ulastirma-hizmetleri-mesleki-egitim-ve-gelistirme-kursiyerleri-mys-e-sinavi/icerik/1664/tr",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "telsiz",
+      "aciklama": "Amatör telsizcilik e-sınavı (MEB 2026 takviminde 'Kıyı Emniyeti Amatör Telsizcilik e-Sınavı') haftanın 7 günü, 81 ildeki e-sınav salonlarında randevulu yapılır.",
+      "kaynak": "https://odsgm.meb.gov.tr/meb_iys_dosyalar/2026_04/69cf935dccf31165847573_2026_SINAV_UYGULAMA_TAKV%C4%B0M%C4%B0.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "amatordenizci",
+      "aciklama": "Amatör Denizci Belgesi (ADB) sınavı, eğitim tamamlandıktan sonra UAB'nin çevrimiçi ADB/KMT başvuru sistemi üzerinden yapılır; sabit tarih yok. Başarısız olan aday 7 gün sonra yeniden başvurabilir.",
+      "kaynak": "https://denizcilik.uab.gov.tr/hizmetler/amator-denizci-belgesi-ve-kisa-mesafe-telsiz-operatoru-sinavlarina-girecek-vatandaslarimizin-dikkatine/",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "kmt",
+      "aciklama": "Kısa Mesafe Telsiz Operatörü (KMT) sınavı, eğitimden sonra ADB ile aynı UAB çevrimiçi sistemi üzerinden yapılır; sabit tarih yok.",
+      "kaynak": "https://denizcilik.uab.gov.tr/hizmetler/amator-denizci-belgesi-ve-kisa-mesafe-telsiz-operatoru-sinavlarina-girecek-vatandaslarimizin-dikkatine/",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "gemiadami",
+      "aciklama": "Gemiadamı yeterlik/terfi sınavları online sınav merkezlerinde randevuyla yapılır; yayımlanmış yıllık takvim bulunamadı. Bilgi 2018 tarihli UAB uygulama talimatına dayanıyor, güncel olup olmadığı teyit edilmeli.",
+      "kaynak": "https://bartinliman.uab.gov.tr/uploads/pages/gemiadamlari-mevzuati/uygulama-talimati-2018-2.pdf",
+      "dogrulandi": false
+    },
+    {
+      "sinav": "spk",
+      "aciklama": "SPL Elektronik Lisanslama Sınavları (e-LS) yıl boyu sınav merkezlerinde yapılır; aday takvimden kontenjanı olan gün ve saati seçer (en erken başvurudan 2 gün sonra). Ocak ve Temmuz aylarının ilk 15 günü sınav yapılmaz.",
+      "kaynak": "https://spl.com.tr/wp-content/uploads/2026/11/Elektronik-Lisanslama-Sinavlari-e-LS-Kilavuzu.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "bes",
+      "aciklama": "e-BEAS çevrimiçi (gözetmenli) yapılır; sınav tarihlerini EGM belirler, aday Aracı Portalı'ndan tarih seçer. Tarihler sınavdan en az 5 iş günü önce duyurulur, sonuçlar en geç 5. iş gününde açıklanır.",
+      "kaynak": "https://cdn.egm.org.tr/sites/files/Bireysel_Emeklilik__Aracilari_Sinav_Sicil_ve_Lisans_Islemleri_Kilavuzu-3135.pdf",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "myk",
+      "aciklama": "MYK mesleki yeterlilik sınavları, MYK'nın yetkilendirdiği belgelendirme kuruluşlarınca yıl boyu yapılır; merkezi takvim yok, tarihleri her kuruluş kendisi duyurur.",
+      "kaynak": "https://www.myk.gov.tr/",
+      "dogrulandi": true
+    },
+    {
+      "sinav": "emlak",
+      "aciklama": "Emlak danışmanlığı (taşınmaz ticareti) için gereken MYK belgesinin sınavları yetkili belgelendirme kuruluşlarınca yıl boyu yapılır; merkezi tarih yok. Belge şartı bu çalışmada resmî yönetmelik sayfası açılarak teyit edilmedi.",
+      "kaynak": "https://www.myk.gov.tr/",
+      "dogrulandi": false
+    },
+    {
+      "sinav": "avcilik",
+      "aciklama": "Avcılık belgesi sınavı avcı eğitimi kursunun sonunda yapılır (kurs bazlı); ulusal merkezi takvim yok. DKMP 2026 kurs ücretlerini yayımladı, ancak sınav usulü resmî sayfada açıkça teyit edilemedi.",
+      "kaynak": "https://www.tarimorman.gov.tr/DKMP/Menu/32/Avcilik-Belgesi",
+      "dogrulandi": false
+    },
+    {
+      "sinav": "ilkyardim",
+      "aciklama": "İlk yardım sertifika sınavı, Sağlık Bakanlığı onaylı ilk yardım eğitim merkezlerinde kursun sonunda yapılır (kurs bazlı); merkezi takvim yok. Resmî sayfa açılamadığı için teyit edilmedi.",
+      "kaynak": "https://hsgm.saglik.gov.tr/",
+      "dogrulandi": false
+    },
+    {
+      "sinav": "operator",
+      "aciklama": "İş makinesi operatör belgesi sınavları kurs veya belgelendirme kuruluşu bazında yapılır; merkezi resmî takvim bulunamadı.",
+      "kaynak": "https://www.myk.gov.tr/",
+      "dogrulandi": false
+    }
+  ]
+}
